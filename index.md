@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD student at [Chair of Integrated Digital Systems and Circuit Design (IDS)](https://www.ids.rwth-aachen.de/en/), RWTH Aachen University, Germany, supervised by [Prof. Tobias Gemmeke](https://www.ids.rwth-aachen.de/en/chair/team/head).
+I am a MSCA fellow at [Department of Electrical and Electronic Engineering], Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://www.ids.rwth-aachen.de/en/chair/team/head).
 I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019 and 
 B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
 
