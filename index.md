@@ -160,6 +160,8 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   </div>
 </li>
 
+
+
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
 <li>2023.07.19 @ 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements</li> 
@@ -167,6 +169,9 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 <li>2022.03.22 @ CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources </li> 
 <li>2021.12.23 @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element </li> 	
 </ul>
+
+
+
 
 ## Honors & Awards 
 <ul style="margin:0 0 5px;">
@@ -176,11 +181,15 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 <li>China National Scholarship, 2019</li>
 </ul>  
 
+
+
 ## Teaching
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
 	<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
 </ul>
+
+
 
 ## Services
 <ul style="margin:0 0 5px;">
