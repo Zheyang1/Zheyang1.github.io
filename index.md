@@ -122,7 +122,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   </div>
 </li>
 
-<h4 style="margin:0 10px 0; font-size: 18px;">During Master (<em>microwave dielectric ceramics</em>)</h4>
+<h4 style="margin:0 10px 0; font-size: 18px;">During Master </h4>
 
 <li>
 <div class="pub-row">
