@@ -12,16 +12,19 @@ My master's research focused on fault analysis of renewable energy sources (RESs
 During my PhD studies, I designed the new control strategies for grid-following controller (GFL) to make GFL compatible with traditonal protection relays.
 My project during my posdoc in the polyu is to establish the phasor model of the grid forming controller (GFM) and calcute the fault current in the wholw network. 
 
+
 ## News
 - **2024.06.04** A paper comes into the popular paper of IEEE Transactions on industrail electronics.
 - **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
+
 
 ## Invited Talks 
 - **2023.07.19** 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements 
 - **2022.06.07** CEEGE 2022, Berlin, Germany. Fault coordination control for converter-interfaced sources compatible with differential protection during asymmetrical faults 
 - **2022.06.07** CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources 
 - **2021.12.23** @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element 
+
 
 ## Honors & Awards 
 <ul style="margin:0 0 5px;">
@@ -32,13 +35,11 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 </ul>  
 
 
-
 ## Teaching
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
 <li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
 </ul>
-
 
 
 ## Services
@@ -190,7 +191,6 @@ My project during my posdoc in the polyu is to establish the phasor model of the
     </div>
   </div>
 </li>
-
 
 
 
