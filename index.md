@@ -3,30 +3,20 @@ layout: homepage
 ---
 
 ## About Me
-I am a MSCA fellow at [Department of Electrical and Electronic Engineering], Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://www.ids.rwth-aachen.de/en/chair/team/head).
-I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), Denmark in 2023 and 
-B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
+I am a MSCA fellow at [Department of Electrical and Electronic Engineering], Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://profiles.imperial.ac.uk/b.pal).
+I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in North China Electrical Power University in 2020. After I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), Denmark in 2023.
+Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic University (polyu) from Sep. 2023 to Sep. 2024 under the supervision of Prof. Ilhan Kocar.
 
-My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
-During my PhD studies, I transitioned to the field of integrated circuit design.
-My current research focuses on [time-domain compute-in-memory](https://www.ids.rwth-aachen.de/en/research/bionn) and its associated <strong>energy-efficient hardware design for machine learning and digital signal processing applications</strong>.
-I am passionate about low-power neural network accelerators and hardware-software co-design.
-
-On the hardware side, I am proficient in ASIC design flow from transistor level design to front-end RTL, back-end P&R, and silicon measurements.
-On the software side, I am familar with neural network training and quantization.
-Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI technology, covering both standard digital design and mixed-signal approach.
+My research direction is protection and control for the power electronics-based power systems.
+My master's research focused on fault analysis of renewable energy sources (RESs) and new protection algorithm development for the AC transmission lines with RESs.
+During my PhD studies, I designed the new control strategies for grid-following controller (GFL) to make GFL compatible with traditonal protection relays.
+My project during my posdoc in the polyu is to establish the phasor model of the grid forming controller (GFM) and calcute the fault current in the wholw network. 
 
 ## News
-- **2024.04.08** We have submitted the 3rd test chip for fabrication using 22nm FDSOI technology.
-- **2024.01.16** One co-authored paper on domain comparison accepted by <strong>ISQED</strong>.
-- **2023.12.20** Invited to give a talk at Peisu Xia Forum hosted by [ICT](http://www.ict.cas.cn/).
-- **2023.10.13** I participated [Beijing Tour for Overseas Talents](https://mp.weixin.qq.com/s/asX-N_U6lZgzlZmjXRyBjg) program.
-- **2023.10.03** Our all-digital TDCIM work accepted by <strong>TCAS-I</strong>.
-- **2023.08.04** One co-authored paper on DSC accelerator accepted by <strong>VLSI-SoC</strong>.
-- **2023.07.07** Check out Prof. Gemmeke's <strong>Time-Domain Computing</strong> talk on [YouTube](https://www.youtube.com/watch?v=r3rSLKS5Ev8).
-- **2023.06.07** I presented our scalable TDCIM BNN work at the <strong>GLSVLSI</strong> in Knoxville, TN, USA!
-- **2022.12.21** Check out <strong>Time Domain Compute-in-Memory</strong> news in [NEUROTEC](https://www.neurotec.org/en/aktuelles/memristive-devices-for-time-domain-compute-in-memory) project.
-- **2022.09.22** I presented our all-digital TDCIM BNN work at the <strong>ESSCIRC</strong> in Milan, Italy!
+- **2024.06.04** A paper comes into the popular paper of IEEE Transactions on industrail electronics.
+- **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
+- **2024.02.13** MSCA fellowship is successful!
+
 
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=hc48V2MAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
@@ -40,9 +30,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10528682">Merits of Time-Domain Computing for VMM - A Quantitative Comparison</a></div>
-      <div class="author">Florian Freye, <strong>Jie Lou</strong>, Christian Lanius, Tobias Gemmeke</div>
-      <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2024.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9889083">Fault Coordination Control for Converter-Interfaced Sources Compatible With Distance Protection During Asymmetrical Faults</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, Wenlong Liao, Claus Leth Bak, Zhe Chen</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 70, no. 7, pp. 6941-6952, July 2023.</em></div>
       <div class="links">
     </div>
   </div>
@@ -52,9 +42,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10308418">An Energy Efficient All-Digital Time-Domain Compute-in-Memory Macro Optimized for Binary Neural Networks</a></div>
-      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
-      <div class="periodical"><em>IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), 2023.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9705549">Improved Euclidean Distance Based Pilot Protection for Lines With Renewable Energy Sources</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, W. Liao, H. Wang, C. L. Bak and Z. Chen</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Informatics, vol. 18, no. 12, pp. 8551-8562, Dec. 2022.</em></div>
       <div class="links">
     </div>
   </div>
@@ -64,9 +54,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10321918">An Energy-Efficient and Area-Efficient Depthwise Separable Convolution Accelerator with Minimal On-Chip Memory Access</a></div>
-      <div class="author">Yi Chen, <strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Johnson Loh, Tobias Gemmeke</div>
-      <div class="periodical"><em>IFIP/IEEE Conference on Very Large Scale Integration (VLSI-SoC), 2023.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9739897">Harmonic Injection Based Distance Protection for Line With Converter-Interfaced Sources</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, Q. Zhang, W. Liao, C. L. Bak and Z. Chen</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 70, no. 2, pp. 1553-1564, Feb. 2023.</em></div>
       <div class="links">
     </div>
   </div>
@@ -76,9 +66,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10244608">Automatic Generation of Structured Macros using Standard Cells – Application to CIM</a></div>
-      <div class="author">Christian Lanius, <strong>Jie Lou</strong>, Johnson Loh, Tobias Gemmeke</div>
-      <div class="periodical"><em>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2023.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10149202">Active-Control-Based Three-Phase Reclosing Scheme for Single Transmission Line With PMSGs</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, W. Liao, C. L. Bak and Z. Chen</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 71, no. 5, pp. 4795-4806, May 2024.</em></div>
       <div class="links">
     </div>
   </div>
@@ -88,9 +78,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://dl.acm.org/doi/10.1145/3583781.3590220">Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices</a></div>
-      <div class="author"><strong>Jie Lou</strong>, Florian Freye, Christian Lanius, Tobias Gemmeke</div>
-      <div class="periodical"><em>Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI), 2023.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10234137">Control-Based Faulty Phase Detection Methods for Lines With Converter-Interfaced Sources</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, W. Liao, C. L. Bak and Z. Chen</div>
+      <div class="periodical"><em>EEE Transactions on Industrial Electronics, vol. 71, no. 7, pp. 7290-7300, July 2024.</em></div>
       <div class="links">
     </div>
   </div>
@@ -100,9 +90,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9930136">Memristive Devices for Time Domain Compute-in-Memory</a></div>
-      <div class="author">Florian Freye, <strong>Jie Lou</strong>, Christopher Bengel, Stephan Menzel, Stefan Wiefels, Tobias Gemmeke</div>
-      <div class="periodical"><em>IEEE Journal of Exploratory Solid-State Computational Devices and Circuits (JxCDC), 2022.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10472656">Minkowski Distance Based Pilot Protection for Tie Lines Between Offshore Wind Farms and MMC</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, R. Zhu and W. Liao</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Informatics.</em></div>
       <div class="links">
     </div>
   </div>
@@ -112,9 +102,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9911382">All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency</a></div>
-      <div class="author"><strong>Jie Lou</strong>, Christian Lanius, Florian Freye, Tim Stadtmann, Tobias Gemmeke</div>
-      <div class="periodical"><em>IEEE European Solid State Circuits Conference (ESSCIRC), 2022.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9870568">A Control Method for Converter-Interfaced Sources to Improve Operation of Directional Protection Elements</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, Z. Liu, Q. Zhang, Z. Chen, J. d. J. Chavez and M. Popov</div>
+      <div class="periodical"><em>IEEE Transactions on Power Delivery, vol. 38, no. 1, pp. 642-654, Feb. 2023.</em></div>
       <div class="links">
     </div>
   </div>
@@ -124,9 +114,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/9806215">Discrete Steps towards Approximate Computing</a></div>
-      <div class="author">Michael Gansen, <strong>Jie Lou</strong>, Florian Freye, Tobias Gemmeke, Farhad Merchant, Albert Zeyer, Mohammad Zeineldeen, Ralf Schluter, Xin Fan</div>
-      <div class="periodical"><em>International Symposium on Quality Electronic Design (ISQED), 2022.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9024118">High-Frequency Fault Component-Based Distance Protection for Large Renewable Power Plants</a></div>
+      <div class="author"><strong>Zhe Yang</strong>, K. Jia, Y. Fang, Z. Zhu, B. Yang and T. Bi</div>
+      <div class="periodical"><em>IEEE Transactions on Power Electronics, vol. 35, no. 10, pp. 10352-10362, Oct. 2020.</em></div>
       <div class="links">
     </div>
   </div>
@@ -138,9 +128,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838819334000">Combined synthesis methods for producing LaNbO4 ceramics and investigation of microwave dielectric properties based on complex chemical bond theory</a></div>
-      <div class="author">Mi Xiao, Peng Zhang, <strong>Jie Lou</strong>, Yanshuang Wei, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Alloys and Compounds, 2019.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/8666728">Influence of Inverter-Interfaced Renewable Energy Generators on Directional Relay and an Improved Scheme</a></div>
+      <div class="author">Ke Jia, <strong>Zhe Yang</strong>, Y. Fang, T. Bi and M. Sumner</div>
+      <div class="periodical"><em>IEEE Transactions on Power Electronics, vol. 34, no. 12, pp. 11843-11855, Dec. 2019.</em></div>
       <div class="links">
     </div>
   </div>
@@ -150,9 +140,9 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-018-0168-9">Crystal structure and microwave dielectric properties of low-permittivity Sr2MgSi2O7 ceramic</a></div>
-      <div class="author">Mi Xiao, Yanshuang Wei, Hongrui Sun, <strong>Jie Lou</strong>, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9173790">Spearman Correlation-Based Pilot Protection for Transmission Line Connected to PMSGs and DFIGs</a></div>
+      <div class="author">Ke Jia, <strong>Zhe Yang</strong>, L. Zheng, Z. Zhu and T. Bi</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Informatics, vol. 17, no. 7, pp. 4532-4544, July 2021.</em></div>
       <div class="links">
     </div>
   </div>
@@ -162,142 +152,44 @@ Currently, I have three chip tapeout experience with 8 designs on 22nm FDSOI tec
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818341458">Structure and microwave dielectric properties of MgZr(Nb1−xSbx)2O8 (0≤x≤0.1) ceramics</a></div>
-      <div class="author">Mi Xiao, Susu He, <strong>Jie Lou</strong>, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Alloys and Compounds, 2018.</em></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9082292">Pilot Protection Based on Amplitude Comparison for Renewable Power Teed Lines</a></div>
+      <div class="author">Ke Jia, <strong>Zhe Yang</strong>, Y. Fang, Z. Zhu, T. Bi and A. Hooshyar</div>
+      <div class="periodical"><em>CSEE Journal of Power and Energy Systems, vol. 8, no. 6, pp. 1519-1529, November 2022.</em></div>
       <div class="links">
     </div>
   </div>
 </li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-018-9945-8">Characteristics and microwave dielectric properties of low loss MgZr0.85Sn0.15Nb2O8 ceramics</a></div>
-      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0272884218323022">Influence of Ge4+ substitution for Zr4+ on the microwave dielectric properties of Mg(Zr1-xGex)Nb2O8 (0≤x≤0.4) ceramics</a></div>
-      <div class="author">Mi Xiao, Susu He, <strong>Jie Lou</strong>, Ping Zhang</div>
-      <div class="periodical"><em>Ceramics International, 2018.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838818309733">Effect of Co2+ substitution on crystal structure and microwave dielectric properties of MgZrNb2O8 ceramics</a></div>
-      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Susu He, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Alloys and Compounds, 2018.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://link.springer.com/article/10.1007/s10854-017-7996-x">Effect of Ni2+ substitution on crystal structure and microwave dielectric properties for MgZrNb2O8 ceramics</a></div>
-      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Hongrui Sun, Lei Li, Ping Zhang</div>
-      <div class="periodical"><em>Journal of Materials Science: Materials in Electronics, 2018.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S027288421732206X">Crystal structure and microwave dielectric properties of MgZr1-xSnxNb2O8 ceramics</a></div>
-      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Yanshuang Wei, Ping Zhang</div>
-      <div class="periodical"><em>Ceramics International, 2017.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-
-<li>
-<div class="pub-row">
-  </div>
-  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0272884217318084">Crystal Structure and Microwave Dielectric Properties of Ta5+ Substituted MgZrNb2O8 Ceramics</a></div>
-      <div class="author">Mi Xiao, <strong>Jie Lou</strong>, Ziqi Zhou, Qingqing Gu, Yanshuang Wei, Ping Zhang</div>
-      <div class="periodical"><em>Ceramics International, 2017.</em></div>
-      <div class="links">
-    </div>
-  </div>
-</li>
-<!-- <br> -->
-</ol>
-</div>
-
-## Internship Experience
-<h4 style="margin:0 10px 0;">Institute of Computing Technology, Chinese Academy of Sciences</h4>
-<ul style="margin:0 0 5px;">
-  <li>2019.05 - 2019.07</li>
-  <li>Research on SV/UVM-based RISC-V processor verification method</li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Analog Devices, Inc., Beijing</h4>
-<ul style="margin:0 0 5px;">
-  <li>2017.12 - 2018.05</li>
-  <li>Build module-level verification platform based on UVM</li>
-  <li>Develop testcases & covergroups that align with the verification plan</li>
-</ul>
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
-<li>2023.12.20 @ Peisu Xia Forum, Beijing, China. Time-Domain Compute-in-Memory</li> 
-<li>2023.06.07 @ GLSVLSI, Knoxville, TN, USA. Scalable Time-Domain Compute-in-Memory BNN Engine with 2.06 POPS/W Energy Efficiency for Edge-AI Devices </li> 
-<li>2022.09.22 @ ESSCIRC, Milan, Italy. All-Digital Time-Domain Compute-in-Memory Engine for Binary Neural Networks with 1.05 POPS/W Energy Efficiency </li> 
+<li>2023.07.19 @ 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements</li> 
+<li>2022.06.07 @ CEEGE 2022, Berlin, Germany. Fault coordination control for converter-interfaced sources compatible with differential protection during asymmetrical faults </li> 
+<li>2022.03.22 @ CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources </li> 
+<li>2021.12.23 @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element </li> 	
 </ul>
 
 ## Honors & Awards 
 <ul style="margin:0 0 5px;">
-<li>Tianjin University Outstanding Graduates, 2019</li>
-<li>Tianjin University Student Science Award, 2018</li>
-<li>Top Ten Outstanding Youth of School of Electronic Information Engineering (Tianjin University), 2018</li>
-<li>China National Scholarship, 2017 & 2018</li>
+<li>Norith China Electrical Power University Outstanding Graduates, 2020</li>
+<li>Outstanding graduate of Beijing City, 2020</li>
+<li>Outstanding M.sC of Norith China Electrical Power University, 2019</li>
+<li>China National Scholarship, 2019</li>
 </ul>  
 
 ## Teaching
-<h4 style="margin:0 10px 0;">Supervised Students</h4>
-<ul style="margin:0 0 5px;">
-	<li>Ioannis Andrianopoulos(Bachelor), 2023</li>
-	<li>Marcel Pape(Bachelor), 2023</li>
-	<li>Chen Zhang(Master), 2023</li>
-	<li>Chuang Zeng(Master), 2023</li>
-</ul>
-
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
-	<li>Computer Arithmetic – Fundamental (2019 - 2023), RWTH Aachen University</li>
+	<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
 </ul>
 
 ## Services
 <ul style="margin:0 0 5px;">
-<li>Reviewer of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)</li>
-<li>Reviewer of IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)</li>
+<li>Associated Editor of Protection and Control of Modern Power Systems (PCMP) </li>
+<li>IEEE IES Ambassador from 2023 to 2024 </li>
+<li>Reviewer of IEEE Transactions on Smart Grid </li>
+<li>Reviewer of IEEE Transactions on Power delivery, Energy Conversion </li>
 </ul>  
 
-## Miscellaneous
-<ul style="margin:0 0 5px;">
-<li>I am the finisher of four marathons(PB 4:17:13).</li>
-  
 <!--
 ## Contact
 **Address:** [Room 304, Mies-van-der-Rohe Str. 15, 52074, Aachen, Germany](https://www.ids.rwth-aachen.de/en/)
