@@ -10,7 +10,7 @@ Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic
 My research direction is protection and control for the power electronics-based power systems.
 My master's research focused on fault analysis of renewable energy sources (RESs) and new protection algorithm development for the AC transmission lines with RESs.
 During my PhD studies, I designed the new control strategies for grid-following controller (GFL) to make GFL compatible with traditonal protection relays.
-My project during my posdoc in the polyu is to establish the phasor model of the grid forming controller (GFM) and calcute the fault current in the wholw network. 
+My project during my posdoc in the polyu is to establish the phasor model of the grid forming controller (GFM) and calcute the fault current in the whole network. 
 
 
 ## News
@@ -41,12 +41,12 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 
 
 ## Services
-<ul style="margin:0 0 5px;">
-<li>Associated Editor of Protection and Control of Modern Power Systems (PCMP) </li>
-<li>IEEE IES Ambassador from 2023 to 2024 </li>
-<li>Reviewer of IEEE Transactions on Smart Grid </li>
-<li>Reviewer of IEEE Transactions on Power delivery, Energy Conversion </li>
-</ul>  
+
+- **2023 to date** Associated Editor of Protection and Control of Modern Power Systems (PCMP)
+- **2023 to 2024**IEEE IES Ambassador
+- Reviewer of IEEE Transactions on Smart Grid
+- Reviewer of IEEE Transactions on Power delivery, Energy Conversion
+
 
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Iw-pgigAAAAJ&hl=enJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
