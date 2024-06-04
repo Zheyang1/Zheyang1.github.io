@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am a MSCA fellow at [Department of Electrical and Electronic Engineering], Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://www.ids.rwth-aachen.de/en/chair/team/head).
-I received my M.S. degree in Integrated Circuit Engineering from [Tianjin University](http://seea.tju.edu.cn/index.htm), China in 2019 and 
+I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), Denmark in 2023 and 
 B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2016.
 
 My master's research focused on microwave dielectric ceramics in circuit materials and devices. 
