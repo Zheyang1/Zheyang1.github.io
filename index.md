@@ -163,12 +163,11 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 
 
 ## Invited Talks 
-<ul style="margin:0 0 5px;">
-<li>2023.07.19 @ 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements</li> 
-<li>2022.06.07 @ CEEGE 2022, Berlin, Germany. Fault coordination control for converter-interfaced sources compatible with differential protection during asymmetrical faults </li> 
-<li>2022.03.22 @ CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources </li> 
-<li>2021.12.23 @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element </li> 	
-</ul>
+- **2023.07.19** 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements 
+- **2022.06.07** CEEGE 2022, Berlin, Germany. Fault coordination control for converter-interfaced sources compatible with differential protection during asymmetrical faults 
+- **2022.06.07** CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources 
+- **2021.12.23** @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element 
+
 
 
 
