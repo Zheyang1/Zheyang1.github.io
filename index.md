@@ -23,6 +23,32 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 - **2022.06.07** CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources 
 - **2021.12.23** @ CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element 
 
+## Honors & Awards 
+<ul style="margin:0 0 5px;">
+<li> Norith China Electrical Power University Outstanding Graduates, 2020 </li>
+<li> Outstanding graduate of Beijing City, 2020 </li>
+<li> Outstanding M.sC of Norith China Electrical Power University, 2019 </li>
+<li> China National Scholarship, 2019 </li>
+</ul>  
+
+
+
+## Teaching
+<h4 style="margin:0 10px 0;">Lectures</h4>
+<ul style="margin:0 0 5px;">
+<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
+</ul>
+
+
+
+## Services
+<ul style="margin:0 0 5px;">
+<li>Associated Editor of Protection and Control of Modern Power Systems (PCMP) </li>
+<li>IEEE IES Ambassador from 2023 to 2024 </li>
+<li>Reviewer of IEEE Transactions on Smart Grid </li>
+<li>Reviewer of IEEE Transactions on Power delivery, Energy Conversion </li>
+</ul>  
+
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Iw-pgigAAAAJ&hl=enJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -166,31 +192,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 </li>
 
 
-## Honors & Awards 
-<ul style="margin:0 0 5px;">
-<li> Norith China Electrical Power University Outstanding Graduates, 2020 </li>
-<li> Outstanding graduate of Beijing City, 2020 </li>
-<li> Outstanding M.sC of Norith China Electrical Power University, 2019 </li>
-<li> China National Scholarship, 2019 </li>
-</ul>  
 
-
-
-## Teaching
-<h4 style="margin:0 10px 0;">Lectures</h4>
-<ul style="margin:0 0 5px;">
-<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
-</ul>
-
-
-
-## Services
-<ul style="margin:0 0 5px;">
-<li>Associated Editor of Protection and Control of Modern Power Systems (PCMP) </li>
-<li>IEEE IES Ambassador from 2023 to 2024 </li>
-<li>Reviewer of IEEE Transactions on Smart Grid </li>
-<li>Reviewer of IEEE Transactions on Power delivery, Energy Conversion </li>
-</ul>  
 
 <!--
 ## Contact
