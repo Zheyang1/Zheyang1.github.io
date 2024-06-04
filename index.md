@@ -175,10 +175,10 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 
 ## Honors & Awards 
 <ul style="margin:0 0 5px;">
-<li>Norith China Electrical Power University Outstanding Graduates, 2020</li>
-<li>Outstanding graduate of Beijing City, 2020</li>
-<li>Outstanding M.sC of Norith China Electrical Power University, 2019</li>
-<li>China National Scholarship, 2019</li>
+<li> Norith China Electrical Power University Outstanding Graduates, 2020 </li>
+<li> Outstanding graduate of Beijing City, 2020 </li>
+<li> Outstanding M.sC of Norith China Electrical Power University, 2019 </li>
+<li> China National Scholarship, 2019 </li>
 </ul>  
 
 
@@ -186,7 +186,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 ## Teaching
 <h4 style="margin:0 10px 0;">Lectures</h4>
 <ul style="margin:0 0 5px;">
-	<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
+<li>Modern Power System Protection(2021 - 2023), Aalborg University</li>
 </ul>
 
 
