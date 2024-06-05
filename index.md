@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 I am a UKRI fellow at [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://profiles.imperial.ac.uk/b.pal).
-I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in [North China Electrical Power University](https://english.ncepu.edu.cn/) in 2020. After that, I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), Denmark in 2023, supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374).
-Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic University (polyu) from Sep. 2023 to Sep. 2024 under the supervision of Prof. [Ilhan Kocar](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-kocar-ilhan/).
+I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in [North China Electrical Power University](https://english.ncepu.edu.cn/) in 2020. After that, I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/)(AAU), Denmark in 2023, supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374).
+Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic University (PolyU) from Sep. 2023 to Sep. 2024 under the supervision of Prof. [Ilhan Kocar](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-kocar-ilhan/).
 
 My research direction is protection and control for the power electronics-based power systems.
 My master's research focused on fault analysis of renewable energy sources (RESs) and new protection algorithm development for the AC transmission lines with RESs.
