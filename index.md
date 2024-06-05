@@ -58,8 +58,8 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 ## Projects
 
 - **2024.10 to 2026.10** MSCA Fellowship: Protection Technologies for OWF-MMC system, host.
-- **2023.09 to 2024.09** Short-circuit Model of the GFM controller, paticipate
-
+- **2023.09 to 2024.09** Short-circuit Model of the GFM controller, participate
+  
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Iw-pgigAAAAJ&hl=enJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
