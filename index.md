@@ -19,7 +19,7 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 - **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
 - **2023.09.26** Join the PolyU as a postdoc researcher.
-- **2023.05.24** So happy to receive my PhD dipoloma!
+- **2023.06.26** So happy to receive my PhD dipoloma!
 - **2023.05.24** Pass my PhD Defense at AAU.
 
 
@@ -31,10 +31,13 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 
 
 ## Honors & Awards 
-- **2020** Norith China Electrical Power University Outstanding Graduates
-- **2020** Outstanding graduate of Beijing City
-- **2019** Outstanding M.sC of Norith China Electrical Power University
-- **2019** China National Scholarship
+
+- **2023.04** Best student paper award at the 8th Asia Conference on Power and Electrical Engineering (ACPEE)
+- **2021.12** Best paper (present) award at the 2nd China International Youth Conference on Electrical Engineering
+- **2020.04** Norith China Electrical Power University Outstanding Graduates
+- **2020.04** Outstanding graduate of Beijing City
+- **2019.10** Outstanding M.sC of Norith China Electrical Power University
+- **2019.10** China National Scholarship
   
 
 
@@ -47,6 +50,7 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 ## Services
 
 - **2023 to date** Associated Editor of Protection and Control of Modern Power Systems (PCMP)
+- **2023 to date** IEEE Member, IEEE PES Member, IEEE IES Member
 - **2023 to 2024** IEEE IES Ambassador
 - Reviewer of IEEE Transactions on Smart Grid
 - Reviewer of IEEE Transactions on Power delivery, Energy Conversion
