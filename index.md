@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I am a MSCA fellow at [Department of Electrical and Electronic Engineering], Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://profiles.imperial.ac.uk/b.pal).
-I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in North China Electrical Power University in 2020. After I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374), Denmark in 2023.
+I am a UKRI fellow at [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://profiles.imperial.ac.uk/b.pal).
+I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in North China Electrical Power University in 2020. After that, I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/), Denmark in 2023, supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374).
 Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic University (polyu) from Sep. 2023 to Sep. 2024 under the supervision of Prof. [Ilhan Kocar](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-kocar-ilhan/).
 
 My research direction is protection and control for the power electronics-based power systems.
@@ -14,6 +14,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 
 
 ## News
+- **2024.06.05** Work as assessment chair of 2024 10th International Conference on Power Electronics Systems and Applications.
 - **2024.06.04** A paper comes into the popular paper of IEEE Transactions on industrail electronics.
 - **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
@@ -146,7 +147,19 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9024118">High-Frequency Fault Component-Based Distance Protection for Large Renewable Power Plants</a></div>
       <div class="author"><strong>Zhe Yang</strong>, K. Jia, Y. Fang, Z. Zhu, B. Yang and T. Bi</div>
-      <div class="periodical"><em>IEEE Transactions on Power Electronics, vol. 35, no. 10, pp. 10352-10362, Oct. 2020.</em></div>
+      <div class="periodical"><em>IEEE Transactions on Power Systems, vol. 38, no. 4, pp. 3514-3527, July 2023.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/9852006">Electricity Theft Detection Using Euclidean and Graph Convolutional Neural Networks</a></div>
+      <div class="author">W. Liao, <strong>Zhe Yang*</strong>, K. Liu, B. Zhang, X. Chen and R. Song</div>
+      <div class="periodical"><em>CSEE Journal of Power and Energy Systems, vol. 8, no. 6, pp. 1519-1529, November 2022.</em></div>
       <div class="links">
     </div>
   </div>
@@ -190,7 +203,17 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   </div>
 </li>
 
-
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href=https://ieeexplore.ieee.org/document/8506376"">Impact of Inverter-Interfaced Renewable Energy Generators on Distance Protection and an Improved Scheme</a></div>
+      <div class="author">Y. Fang, K. Jia, <strong>Zhe Yang</strong>, Y. Li and T. Bi</div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 66, no. 9, pp. 7078-7088, Sept. 2019.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
 
 <!--
 ## Contact
