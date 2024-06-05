@@ -18,10 +18,13 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 - **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrail electronics</strong>.
 - **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
+- **2023.09.26** Join the PolyU as a postdoc researcher.
+- **2023.05.24** So happy to receive my PhD dipoloma!
+- **2023.05.24** Pass my PhD Defense at AAU.
 
 
 ## Invited Talks 
-- **2023.07.19** 2023 PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements 
+- **2023.07.19** 2023 IEEE PES Genernal Meeting, Orlando, USA. A Control Method for Converter-interfaced Sources to Improve Operation of Directional Protection Elements 
 - **2022.06.07** CEEGE 2022, Berlin, Germany. Fault coordination control for converter-interfaced sources compatible with differential protection during asymmetrical faults 
 - **2022.03.15** CEES, Tokyo, Japan. Comprehensive current amplitude ratio based pilot protection for line with converter-interfaced sources 
 - **2021.12.23** CIEEC, Wuhan, China. Fault Current Calculation for Inverter-interfaced Power Sources Considering Saturation Element 
@@ -37,8 +40,8 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 
 ## Teaching
 
-- **2021 to 2023** Modern Power System Protection, Aalborg University
-
+- **2021 to 2023** PhD course: Modern Power System Protection, Aalborg University
+- **2021 to 2023** M.sC course: Power System transients, Aalborg University
 
 
 ## Services
