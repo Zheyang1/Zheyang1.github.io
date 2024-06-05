@@ -55,7 +55,10 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 - Reviewer of IEEE Transactions on Smart Grid
 - Reviewer of IEEE Transactions on Power delivery, Energy Conversion
 
+## Projects
 
+- **2024.10 to 2026.10** MSCA Fellowship: Protection Technologies for OWF-MMC system, host.
+- **2023.09 to 2024.09** Short-circuit Model of the GFM controller, paticipate
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Iw-pgigAAAAJ&hl=enJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
