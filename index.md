@@ -203,11 +203,12 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   </div>
 </li>
 
+
 <li>
 <div class="pub-row">
   </div>
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
-      <div class="title"><a href=https://ieeexplore.ieee.org/document/8506376"">Impact of Inverter-Interfaced Renewable Energy Generators on Distance Protection and an Improved Scheme</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/8506376">Impact of Inverter-Interfaced Renewable Energy Generators on Distance Protection and an Improved Scheme</a></div>
       <div class="author">Y. Fang, K. Jia, <strong>Zhe Yang</strong>, Y. Li and T. Bi</div>
       <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 66, no. 9, pp. 7078-7088, Sept. 2019.</em></div>
       <div class="links">
