@@ -147,7 +147,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9024118">High-Frequency Fault Component-Based Distance Protection for Large Renewable Power Plants</a></div>
       <div class="author"><strong>Zhe Yang</strong>, K. Jia, Y. Fang, Z. Zhu, B. Yang and T. Bi</div>
-      <div class="periodical"><em>IEEE Transactions on Power Systems, vol. 38, no. 4, pp. 3514-3527, July 2023.</em></div>
+      <div class="periodical"><em>IEEE Transactions on Power Electronics, vol. 35, no. 10, pp. 10352-10362, Oct. 2020.</em></div>
       <div class="links">
     </div>
   </div>
@@ -159,7 +159,19 @@ My project during my posdoc in the polyu is to establish the phasor model of the
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9852006">Electricity Theft Detection Using Euclidean and Graph Convolutional Neural Networks</a></div>
       <div class="author">W. Liao, <strong>Zhe Yang*</strong>, K. Liu, B. Zhang, X. Chen and R. Song</div>
-      <div class="periodical"><em>CSEE Journal of Power and Energy Systems, vol. 8, no. 6, pp. 1519-1529, November 2022.</em></div>
+      <div class="periodical"><em>IEEE Transactions on Power Systems, vol. 38, no. 4, pp. 3514-3527, July 2023.</em></div>
+      <div class="links">
+    </div>
+  </div>
+</li>
+
+<li>
+<div class="pub-row">
+  </div>
+  <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10323252">Electricity Theft Detection Using Dynamic Graph Construction and Graph Attention Network</a></div>
+      <div class="author">W. Liao, R. Zhu <strong>Zhe Yang*</strong>, K. Liu, B. Zhang, S. Zhu and B. Feng</div>
+      <div class="periodical"><em>EEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 5074-5086, April 2024.</em></div>
       <div class="links">
     </div>
   </div>
