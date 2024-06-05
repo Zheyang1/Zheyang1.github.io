@@ -15,7 +15,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 
 ## News
 - **2024.06.05** Work as assessment chair of 2024 10th International Conference on Power Electronics Systems and Applications.
-- **2024.06.04** A paper comes into the popular paper of IEEE Transactions on industrail electronics.
+- **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrail electronics</strong>.
 - **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
 
@@ -44,7 +44,7 @@ My project during my posdoc in the polyu is to establish the phasor model of the
 ## Services
 
 - **2023 to date** Associated Editor of Protection and Control of Modern Power Systems (PCMP)
-- **2023 to 2024**IEEE IES Ambassador
+- **2023 to 2024** IEEE IES Ambassador
 - Reviewer of IEEE Transactions on Smart Grid
 - Reviewer of IEEE Transactions on Power delivery, Energy Conversion
 
