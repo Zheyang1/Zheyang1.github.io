@@ -15,8 +15,8 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 
 ## News
 - **2024.06.05** Work as assessment chair of 2024 10th International Conference on Power Electronics Systems and Applications.
-- **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrail electronics</strong>.
-- **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrail informatics</strong>.
+- **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrial electronics</strong>.
+- **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrial informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
 - **2023.09.26** Join the PolyU as a postdoc researcher.
 - **2023.06.26** So happy to receive my PhD dipoloma!
