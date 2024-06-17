@@ -121,7 +121,7 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
   <div id="lou" class="col-sm-9" style="position: relative; width: 100%; padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/10234137">Control-Based Faulty Phase Detection Methods for Lines With Converter-Interfaced Sources</a></div>
       <div class="author"><strong>Zhe Yang</strong>, W. Liao, C. L. Bak and Z. Chen</div>
-      <div class="periodical"><em>EEE Transactions on Industrial Electronics, vol. 71, no. 7, pp. 7290-7300, July 2024.</em></div>
+      <div class="periodical"><em>IEEE Transactions on Industrial Electronics, vol. 71, no. 7, pp. 7290-7300, July 2024.</em></div>
       <div class="links">
     </div>
   </div>
