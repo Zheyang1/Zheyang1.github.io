@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 I am a UKRI fellow at [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), Imperial College London, UK, supervised by [Prof. Bikash C. Pal](https://profiles.imperial.ac.uk/b.pal).
-I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in [North China Electric Power University](https://english.ncepu.edu.cn/) in 2020. After that, I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/)(AAU), Denmark in 2023, supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374).
+I obtained my B.S. degree in Electrical Engineering and Automation from [Northeast Electric Power University](https://ee.neepu.edu.cn/), China in 2017. Then, I received my M.Sc degree in [North China Electric Power University](https://english.ncepu.edu.cn/) in 2020, supervised by [Ke Jia](https://electric.ncepu.edu.cn/szdw/xyjj6/sfyjs/8b8d267877d14c9c9539fc453270f45d.htm) and [Tianshu Bi](https://laps.ncepu.edu.cn/jgdw/sysyjry/bts.htm). After that, I received my PhD degree at AAU Energy from [Aalborg University](https://www.en.aau.dk/)(AAU), Denmark in 2023, supervised by [Zhe Chen](https://vbn.aau.dk/en/persons/109374).
 Before joined ICL, I worked as a postdoc researcher in the Hong Kong Polytechnic University (PolyU) from Sep. 2023 to Sep. 2024 under the supervision of Prof. [Ilhan Kocar](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-kocar-ilhan/).
 
-My research direction is protection and control for the power electronics-based power systems.
+My research direction is protection and control for the power electronics-based power systems. I have published 10 Trans papers as the first author, and hold the 13 patents in China and America.
 My master's research focused on fault analysis of renewable energy sources (RESs) and new protection algorithm development for the AC transmission lines with RESs.
 During my PhD studies, I designed the new control strategies for grid-following controller (GFL) to make GFL compatible with traditional protection relays.
 My project during my posdoc in the PolyU is to establish the phasor model of the grid forming controller (GFM) and calculate the fault current in the whole network. I will be in the job market from 2024 to 2026.
 
 
 ## News
+- **2024.07.07** A review paper is accepted by <strong>Protection and Control of Modern Power Systems</strong>!
 - **2024.06.05** Work as assessment chair of 2024 10th International Conference on Power Electronics Systems and Applications.
 - **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrial electronics</strong>.
-- **2024.02.22** One first-author paper is acceped by <strong>IEEE Transactions on industrial informatics</strong>.
+- **2024.02.22** One first-author paper is accepted by <strong>IEEE Transactions on industrial informatics</strong>.
 - **2024.02.13** MSCA fellowship is successful!
 - **2023.09.26** Join the PolyU as a postdoc researcher.
 - **2023.06.26** So happy to receive my PhD dipoloma!
