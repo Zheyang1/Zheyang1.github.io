@@ -14,6 +14,7 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 
 
 ## News
+- **2024.07.07** A first-author paper is accepted by <strong>IEEE Transactions on industrial Electronics</strong>!
 - **2024.07.07** A review paper is accepted by <strong>Protection and Control of Modern Power Systems</strong>!
 - **2024.06.05** Work as assessment chair of 2024 10th International Conference on Power Electronics Systems and Applications.
 - **2024.06.04** A paper comes into the popular paper of <strong>IEEE Transactions on industrial electronics</strong>.
@@ -242,3 +243,4 @@ My project during my posdoc in the PolyU is to establish the phasor model of the
 ## Contact
 **Address:** [Room 304, Mies-van-der-Rohe Str. 15, 52074, Aachen, Germany](https://www.ids.rwth-aachen.de/en/)
 -->
+
